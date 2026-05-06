@@ -10,7 +10,7 @@ public class Solution {
         boolean result = num1==num2;
 
 
-        //print the result according to the question 
+        //print the result according to the question OK
         System.out.println(result);
 
         sc.close(); 
